@@ -1,0 +1,51 @@
+
+
+body{
+  background-color:lightblue;
+  text-align: center;
+}
+header,footer{
+  border: 1px solid grey;
+  width: 75%;
+  height: 100px
+  margin: 5% auto;
+  border-top:
+}
+footer{
+  height: 20px;
+  margin-bottom: 0px;
+  position: fixed;
+  bottom: 0;
+  width: 100%
+}
+aside{
+  width: 250px
+  float:left;
+  border: 2px solid black;
+  display: block;
+}
+section{
+  width: 100%
+  border: 2px solid black;
+  display: block;
+}
+[
+    {
+        "text": "One does not simply",
+        "x": 10,
+        "y": 10,
+        "width": 548,
+        "height": 100,
+        "color": "#ffffff",
+        "outline_color": "#000000"
+    },
+    {
+        "text": "Make custom memes on the web via imgflip API",
+        "x": 10,
+        "y": 225,
+        "width": 548,
+        "height": 100,
+        "color": "#ffffff",
+        "outline_color": "#000000"
+    }
+]
